@@ -1,5 +1,6 @@
-#Meme-Generator
-Credit: https://scrimba.com/dashboard#overview
+# Meme-Generator
+
+Credit: https://scrimba.com/
 
 
 
