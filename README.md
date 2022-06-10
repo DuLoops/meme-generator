@@ -1,7 +1,6 @@
-# Meme-Generator
+# Credit
 
-Credit: https://scrimba.com/
-
+[https://scrimba.com/](https://scrimba.com/learn/learnreact/)
 
 
 
